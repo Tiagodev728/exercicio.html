@@ -11,7 +11,7 @@
         <label for="Nome">Nome:</label>
         <input id="Nome" type="Nome">
         <br/>
-        <label for="e-mail">e-mail:</label>
+        <label for="e-mail">E-mail:</label>
         <input id="e-mail"type="e-mail">
         <br/>
         <label for="Senha">Senha:</label>
